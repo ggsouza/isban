@@ -17,3 +17,4 @@ Technical .NET exam
 * Open the solution in VS and just run like as http://localhost:57288/api/beststories
 
 
+A1
